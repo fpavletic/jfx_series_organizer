@@ -1,0 +1,17 @@
+3g2
+3gp
+asf
+avi
+flv
+m4v
+mkv
+mov
+mp4
+mpg
+rm
+swf
+vob
+wmv
+srt
+sub
+zip
